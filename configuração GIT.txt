@@ -1,0 +1,5 @@
+git config --global user.name B3ah
+git config --global user.email andradebeatriz351@gmail.com
+
+Abrir terminal:
+Ctrl + '
