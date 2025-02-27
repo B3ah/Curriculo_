@@ -25,7 +25,7 @@ main{
 
 .left{
     background-color: #f0f0f0;
-    box-shadow: 0 0 10px #081b29;
+    box-shadow: 0 0 10px #2b1163;
     border-radius: 10px;
 }
 
@@ -48,7 +48,7 @@ main{
 }
 
 i{
-    color:#b6a8f4;
+    color:#2b1163;
 }
 
 .pessoais, .habilidades, .idiomas{
@@ -70,7 +70,7 @@ progress {
 .sobre, .experiencias, .educacao{
     padding: 1.5rem;
     background-color: #f0f0f0;
-    box-shadow: 7px 7px 10px #081b29;
+    box-shadow: 7px 7px 10px #2b1163;
     border-radius: 10px;
 }
 
@@ -102,14 +102,14 @@ progress {
 }
 
 .atual{
-    background-color: #081b29;
+    background-color: #2b1163;
     color: #fff;
     padding: 0.1rem 1rem;
     border-radius: 5px;
 }
 
 footer{
-    background-color: #081b29;
+    background-color: #2b1163;
     color:#fff;
     padding: 1.5rem 0;
     text-align: center;
